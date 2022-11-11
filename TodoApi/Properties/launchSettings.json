@@ -38,7 +38,7 @@
     "TodoApi": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:14477;http://localhost:36038",
+      "applicationUrl": "https://localhost:50161;http://localhost:62693",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
